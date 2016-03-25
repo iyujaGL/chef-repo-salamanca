@@ -1,0 +1,5 @@
+/data_bags
+/.chef
+!/cookbooks
+/cookbooks/*
+!/cookbooks/sl-*
